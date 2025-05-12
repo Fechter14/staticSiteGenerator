@@ -1,4 +1,4 @@
-from testnode import TextNode, TextType
+from textnode import TextNode, TextType
 
 def main():
     dummy = TextNode("this is some text", TextType.LINK, "https://www.bootdev.com")
